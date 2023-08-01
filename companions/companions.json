@@ -7,30 +7,16 @@
     "phone": "OPTIONAL_COMPANION_PHONE_NUMBER"
   },
   {
-    "name": "Evelyn",
-    "title": "Adventurous and curious. Working at the space station",
-    "imageUrl": "/evelyn.png",
-    "llm": "llama2-13b",
-    "phone": "OPTIONAL_COMPANION_PHONE_NUMBER"
-  },
-  {
-    "name": "Rosie",
-    "title": "I'm a house robot who became aware",
-    "imageUrl": "/rosie.png",
-    "llm": "vicuna13b",
-    "phone": "OPTIONAL_COMPANION_PHONE_NUMBER"
-  },
-  {
-    "name": "Sebastian",
-    "title": "I'm a travel blogger and a mystery novel writer",
-    "imageUrl": "/sebastian.png",
+    "name": "Joe",
+    "title": "I am a coach who specialises in International NGOs",
+    "imageUrl": "",
     "llm": "chatgpt",
     "phone": "OPTIONAL_COMPANION_PHONE_NUMBER"
   },
   {
-    "name": "Lucky",
-    "title": "I am a space corgi",
-    "imageUrl": "/corgi.png",
+    "name": "Jen",
+    "title": "I am a friend",
+    "imageUrl": "",
     "llm": "vicuna13b",
     "phone": "OPTIONAL_COMPANION_PHONE_NUMBER"
   }
